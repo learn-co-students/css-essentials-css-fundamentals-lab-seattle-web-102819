@@ -18,12 +18,7 @@ a {
   background-color: grey;
 }
 
-nav {
-  text-align: center;
-}
-
-figcaption {
-  font-size: 10px;
+nav, figcaption {
   text-align: center;
 }
 
